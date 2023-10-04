@@ -25,14 +25,15 @@ at Telecom SudParis/IP Paris in France with
 [Pr. Gaël Thomas](https://www-public.imtbs-tsp.eu/~thomas_g/)
 and [Pr. Mathieu Bacou](https://bacou.wp.imtbs-tsp.eu/).
 I also had a previous research experience at Univeristy of Neuchatel,
-Switzerland about making asynchronous cross-enclave calls for SGX efficient,
-which leads to the publication of our paper in DSN 2023.
+Switzerland about making SGX switchless calls efficient and configless,
+which leads to the publication of
+[a paper in DSN 2023](https://tzerbib.github.io/publication/2023-06_SGX_Switchless_Calls_Made_Configless).
 
 Teaching Experience
 ===
 
-While I was an undergraduate student, I helped my teacher preparing
-materials for the graduate class about operating systems architecture.
+While I was an undergraduate student, I helped preparing materials
+for the graduate class about operating systems architecture.
 We based our work on the
 [xv6 booklet from MIT](https://pdos.csail.mit.edu/6.828/2023/xv6/book-riscv-rev3.pdf)
 that I translated to French, and sent back some improvements to MIT
