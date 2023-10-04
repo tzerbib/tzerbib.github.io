@@ -16,7 +16,7 @@ Education
 * Master in Parallel and Distributed Systems, Institut Polytechnique de Paris (France), 2023
 * Bachelor in Computer Sc. & Engineering, University of Strasbourg (France), 2020
 
-Research experience
+Research Experience
 ======
 * **Master's thesis**, 2023: "Taking down the Leader with Bordeaux. A fair & leaderless byzantine ordering service"
   * [University of California, Berkeley](https://sky.cs.berkeley.edu/) (USA)
@@ -54,7 +54,7 @@ Teaching
   {% endfor %}</ul>
 
 
-Service and leadership
+Activities and Interests
 ======
 * Pianist in a jazz band after 15 years in music school.
 * Singer in the [vocal ensemble of École Polytechnique](https://chorale.binets.fr/#/presentation).
