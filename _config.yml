@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Timothée Zerbib / Main Page"
 title_separator          : "-"
 name                     : &name "Timothée Zerbib"
-description              : &description "Visiting scholar at UC Berkeley"
+description              : &description "Visiting student researcher at UC Berkeley"
 url                      : https://tzerbib.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "tzerbib/tzerbib.github.io"
