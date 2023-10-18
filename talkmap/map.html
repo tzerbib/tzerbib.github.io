@@ -63,7 +63,7 @@
 
     		var tiles = L.tileLayer('http://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/{z}/{y}/{x}', {
               maxZoom: 18,
-              attribution: 'All positions are approximative.'
+              attribution: 'All positions are approximate.'
                     }),
     			latlng = L.latLng(30, 10);
     		var map = L.map('map', {center: latlng, zoom: 0.7, layers: [tiles]});

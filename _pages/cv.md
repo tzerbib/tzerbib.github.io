@@ -21,18 +21,18 @@ Research Experience
 <!-- workmap: "University of California, Berkeley" -->
 * **Master's thesis**, 2023: "Taking down the Leader with Bordeaux. A fair & leaderless byzantine ordering service"
   * [University of California, Berkeley](https://sky.cs.berkeley.edu/) (USA)
-  * Supervisor: [Prof. Natacha Crooks](https://nacrooks.github.io/)
+  * Supervisor: [Natacha Crooks](https://nacrooks.github.io/)
 
 <!-- workmap: "Institut Polytechnique de Paris" -->
 * **Master's research project**, 2022-2023: "Implementation of a multikernel"
   * [Institut Polytechnique de Paris](https://www.inf.telecom-sudparis.eu/pds/) (France)
-  * Supervisors: [Prof. Gaël Thomas](https://www-public.imtbs-tsp.eu/~thomas_g/)
-                and [Prof. Mathieu Bacou](https://bacou.wp.imtbs-tsp.eu/).
+  * Supervisors: [Gaël Thomas](https://www-public.imtbs-tsp.eu/~thomas_g/)
+                and [Mathieu Bacou](https://bacou.wp.imtbs-tsp.eu/).
   
 <!-- workmap: "Universite de Neuchatel" -->
 * **Internship**, 2021: "Configless and Efficient Switchless Calls for SGX"
   * [University of Neuchâtel](https://www.unine.ch/) (Switzerland)
-  * Supervisors: [Pr Pascal Felber](http://members.unine.ch/pascal.felber/index.html), [Pr Alain Tchana](https://perso.ens-lyon.fr/alain.tchana/) and [Pr Valerio Schiavoni](http://members.unine.ch/valerio.schiavoni/)
+  * Supervisors: [Pascal Felber](http://members.unine.ch/pascal.felber/index.html), [Alain Tchana](https://perso.ens-lyon.fr/alain.tchana/) and [Valerio Schiavoni](http://members.unine.ch/valerio.schiavoni/)
 
 
 
