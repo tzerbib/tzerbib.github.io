@@ -13,13 +13,14 @@ You can download my resume [here](http://tzerbib.github.io/files/resume_ZERBIB_T
 
 Education
 ======
-* Master in Parallel and Distributed Systems, Institut Polytechnique de Paris (France), 2023 <!-- studymap: "Institut Polytechnique de Paris" -->
+* PhD in CS, Brown University (USA), ongoing <!-- studymap: "Brown University" -->
+* Master in Parallel and Distributed Systems, Institut Polytechnique de Paris (France), 2024 <!-- studymap: "Institut Polytechnique de Paris" -->
 * Bachelor in Computer Sc. & Engineering, University of Strasbourg (France), 2020 <!-- studymap: "Universite de Strasbourg" -->
 
 Research Experience
 ======
 <!-- workmap: "University of California, Berkeley" -->
-* **Master's thesis**, 2023: "Taking down the Leader with Bordeaux. A fair & leaderless byzantine ordering service"
+* **Master's thesis**, 2023-2024: "Taking down the Leader with Bordeaux. A fair & leaderless byzantine ordering service"
   * [University of California, Berkeley](https://sky.cs.berkeley.edu/) (USA)
   * Supervisor: [Natacha Crooks](https://nacrooks.github.io/)
 

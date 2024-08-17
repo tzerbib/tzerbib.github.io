@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Timothée Zerbib / Main Page"
 title_separator          : "-"
 name                     : &name "Timothée Zerbib"
-description              : &description "Visiting student researcher at UC Berkeley"
+description              : &description "PhD Student @ Brown University"
 url                      : https://tzerbib.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "tzerbib/tzerbib.github.io"
@@ -83,12 +83,12 @@ analytics:
 author:
   name             : "Timothée Zerbib"
   avatar           : "profile.jpg"
-  bio              : "Visiting student researcher at UC Berkeley, looking for a PhD position in systems research"
+  bio              : "PhD Student @ Brown University"
   location         : "Strasbourg, France"
   employer         :
   pubmed           :
   googlescholar    :
-  email            : "tzerbib (at) proton (dot) me"
+  email            : "timothee.zerbib (at) brown (dot) edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

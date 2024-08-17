@@ -8,17 +8,18 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Visiting Student Researcher at UC Berkeley in the Department
-of Electrical Engineering and Computer Science (EECS), and I am looking for
-a PhD position starting in Fall 2024.
+I am a PhD student at the [Department of Computer Science](https://cs.brown.edu/)
+at [Brown University](https://www.brown.edu/), where I am advised
+by [Malte Schwarzkopf](https://cs.brown.edu/people/malte/).
 My main interests in research are operating systems architecture,
-scheduling, and distributed systems.
+scheduling, and distributed systems; but also anything that involves
+low-level hacking or tweaking.
 
 
 Research Experience
 ===
 
-My work at UC Berkeley consists of designing a fair,
+My work at UC Berkeley consisted in designing a fair,
 leaderless ordering service, which I have done under the supervision
 of [Natacha Crooks](https://nacrooks.github.io/).
 Before that, I transformed xv6 into a multikernel
@@ -48,9 +49,9 @@ Activities and Interests
 Aside from trying to figure out the best solution to a problem,
 I do music, and I love that!
 I have taken piano lessons for about 15 years and
-am currently playing in a jazz band named Groovie Boulga.
-I also completed four years of a firefighter training program
-that I stopped once I entered college.
+I was playing in a jazz band named Groovie Boulga.
+Among other things, I completed a firefighter training before entering college,
+a training in fireworks, and I did some Judo.
 
 
 Feel free to contact me if you want to talk about my research interests,
